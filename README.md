@@ -31,7 +31,7 @@ cd <repo> && \
 vagrant up
 ```
 
-## Ресурсы:
+## Ресурсы
 - [Ansible Provisioner](https://developer.hashicorp.com/vagrant/docs/provisioning/ansible)
 - [Ansible](https://www.ansible.com/)
 - [docker-compose](https://docs.docker.com/compose/)
